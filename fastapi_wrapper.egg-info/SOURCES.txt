@@ -1,0 +1,9 @@
+README.md
+setup.py
+PythonFastAPIWrapper/__init__.py
+PythonFastAPIWrapper/api.py
+PythonFastAPIWrapper/crud.py
+fastapi_wrapper.egg-info/PKG-INFO
+fastapi_wrapper.egg-info/SOURCES.txt
+fastapi_wrapper.egg-info/dependency_links.txt
+fastapi_wrapper.egg-info/top_level.txt

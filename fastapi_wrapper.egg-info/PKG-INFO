@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: fastapi_wrapper
+Version: 1.0.0
+Summary: A reusable CRUD Interface for FastAPI
+Author: Thomas baumkircher
+Author-email: thomasbaumkircher@gmail.com
